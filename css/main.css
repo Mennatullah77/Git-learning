@@ -1,0 +1,50 @@
+#calculator{
+    width : 300pt ;
+    margin: 30pt  300pt;
+    padding : 100pt;
+    background-color: black;
+
+
+
+}
+
+#buttons{
+    display: flex;
+    flex-flow: row;
+    text-decoration-color: bisque;
+    color: aliceblue;
+
+
+
+
+}
+
+.col{
+
+margin: 20pt 20pt;
+
+}
+
+.element{
+    margin: 10pt 0;
+    padding: 10pt;
+    width: 30px;
+    length: 30px;
+    border-radius: 100px;
+    font-size: large;
+    background-color: brown;
+    text-align: center;
+
+}
+
+#display{
+
+    background-color: aliceblue;
+    color: black;
+    width: 300pt;
+    height: 30pt ;
+    border-radius: 20pt;
+    border-color: darkgrey;
+
+}
+

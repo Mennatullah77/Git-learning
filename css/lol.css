@@ -1,0 +1,27 @@
+html{
+    background-color: bisque;
+    border-bottom-width: thick;
+    border-color: black;
+}
+
+body{
+    background-color: azure;
+    margin: 30pt;
+
+
+
+}
+
+#heading{
+    color: blue;
+    font-family: 'Roboto', 'Noto', sans-serif;
+}
+
+.para{
+   font-size: 30pt;
+    font-style: italic;
+}
+
+a{
+    color : red;
+}
